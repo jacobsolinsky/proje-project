@@ -1,0 +1,9 @@
+.menu-bar{
+	-fx-background-color: rgba(216, 131, 131, 0.41);
+}
+.context-menu{
+	-fx-background-color: #FFF3F3;
+	-fx-border-color: #F0713B;
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+}
