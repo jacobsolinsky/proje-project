@@ -14,7 +14,6 @@
     	<artifactId>javaparser-core</artifactId>
     	<version>3.16.1</version>
 	  </dependency>
-	<!-- https://mvnrepository.com/artifact/org.graphstream/gs-core -->
 	<dependency>
 	    <groupId>org.graphstream</groupId>
 	    <artifactId>gs-core</artifactId>
